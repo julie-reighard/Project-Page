@@ -1,5 +1,5 @@
 # Project-Page
-Link to final presentation on [https://carnegiemellon.shorthandstories.com/alcohol-misuse-and-abuse/index.html] (Shorthand!)
+Link to final presentation on (Shorthand!)[https://carnegiemellon.shorthandstories.com/alcohol-misuse-and-abuse/index.html]
 
 # Part 1
 Project Outline:
