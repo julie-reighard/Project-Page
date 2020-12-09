@@ -1,5 +1,5 @@
 # Project-Page
-Link to final presentation on (Shorthand!)[https://carnegiemellon.shorthandstories.com/alcohol-misuse-and-abuse/index.html]
+Link to final presentation on [Shorthand!](https://carnegiemellon.shorthandstories.com/alcohol-misuse-and-abuse/index.html)
 
 # Part 1
 Project Outline:
@@ -42,11 +42,11 @@ https://www.samhsa.gov/data/sites/default/files/reports/rpt29394/NSDUHDetailedTa
 SELF Article: https://www.self.com/story/this-fake-instagram-account-teaches-a-surprising-lesson-about-addiction 
 Because I chose to switch gears, here is the new storyboard/arc/wireframe that I have come up with:
 
-Wireframes and storyboards can be found on the link [https://julie-reighard.github.io/Part-2/] (here!)
+Wireframes and storyboards can be found on the link [here!](https://julie-reighard.github.io/Part-2/)
 
 User Research: 
 I interviewed a few of my younger friends and an older family member to gain feedback on the storyboard. After aggregatting their feedback, I needed to improve the transition from the introduction into the story and from the story to the data to link it to the health effects. 
-User Research Comments can also be found [https://julie-reighard.github.io/Part-2/](here!)
+User Research Comments can also be found [here!](https://julie-reighard.github.io/Part-2/)
 
 
 
